@@ -1,6 +1,6 @@
 # etl_challenge
 
-# Data Challenge 
+# Data Engineering Challenge 
 
 [![Python Version](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)](https://www.python.org/downloads/)
 
